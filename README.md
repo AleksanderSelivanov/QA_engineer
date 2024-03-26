@@ -17,3 +17,6 @@
   
  **Console_database_SQL**
  - Тестовое задание
+
+ **Bug reports**
+ - Ссылка на баг-репорты
