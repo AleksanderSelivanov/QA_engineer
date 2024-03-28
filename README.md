@@ -16,7 +16,7 @@
 - Яндекс.Прилавок
   
  **Console_database_SQL**
- - Тестовое задание
+- Тестовое задание
 
  **Bug reports**
- - Ссылка на баг-репорты
+ - [Ссылка на баг-репорты](https://zapad4.youtrack.cloud/projects/ca443656-ab05-4329-a0a9-27b2f4736f75)
