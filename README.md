@@ -4,19 +4,19 @@
 
 
  **Check-lists** :
-- мобильное приложение Яндекс.Метро
--  API Яндекс.Прилавок
--  Форма бронирования каршеринг Яндекс.Маршруты
--  Форма оплаты и добавления карты Яндекс маршруты
+- mobile app Yandex.Metro
+-  API Yandex.Prilavok
+-  booking form carsharing Yandex.Marshruty
+-  form for adding a payment card Yandex.Marshruty
   
   **Test cases** :
-- Проверка  функции бронирования а/м каршеринга 
+- testing  the booking function Yandex.Marshruty
 
 **Postman_collection** :
-- Яндекс.Прилавок
+- Yandex.Prilavok
   
- **Console_database_SQL**
-- Тестовое задание
+ **Test tasks**
+- Console_database_SQL
 
  **Bug reports**
- - [Ссылка на баг-репорты](https://zapad4.youtrack.cloud/projects/ca443656-ab05-4329-a0a9-27b2f4736f75)
+ - [link](https://zapad4.youtrack.cloud/projects/ca443656-ab05-4329-a0a9-27b2f4736f75)
